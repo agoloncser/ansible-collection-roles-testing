@@ -1,0 +1,6 @@
+---
+roles:
+  - name: agoloncser.git_config
+    version: master
+  - name: agoloncser.git_repos
+    version: master
