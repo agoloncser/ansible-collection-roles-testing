@@ -25,6 +25,7 @@ jobs:
         run: pip install ansible
 
       - name: Installing from galaxy
+        working-directory: "${{ github.repository }}"
         run: |
           type ansible
           ansible --version
