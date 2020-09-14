@@ -4,3 +4,5 @@ roles:
     version: master
   - name: agoloncser.git_repos
     version: master
+  - name: agoloncser.emacs
+    version: master
